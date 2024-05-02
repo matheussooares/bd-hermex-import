@@ -22,7 +22,7 @@ Para tal, é escolhido o SGBD [SQLite Online](sqliteonline.com), que tem a vanta
 </div>
 
 ## Referências Bibliográficas
-1. [Formação SQL](https://cursos.alura.com.br/formacao-conhecendo-sql)
+1. [SQLite online: conhecendo instruções SQL](https://cursos.alura.com.br/formacao-conhecendo-sql)
 
 2. [Beatriz Magalhães](https://cursos.alura.com.br/user/beatriz280197)
 
