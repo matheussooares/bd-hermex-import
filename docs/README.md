@@ -1,4 +1,4 @@
-# Banco de dados: Hermex Import
+# Hermex Import
 O projeto tem a missão de desenvolver um banco de dados para uma empresa de importação, a Hermex Import.
 
 <div align="center">
