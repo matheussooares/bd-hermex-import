@@ -1,4 +1,4 @@
-# Banco de dados
+# Banco de dados: Hermex Import
 O projeto tem a missão de desenvolver um banco de dados para uma empresa de importação, a Hermex Import.
 
 <div align="center">
@@ -14,6 +14,12 @@ A empresa já forneceu algumas tabelas, alguns dados internos, e deseja consegui
 O projeto utiliza a linguagem SQL. SQL vem do termo em Inglês "Structured Query Language" (Linguagem de Consultas Estruturadas). É uma linguagem que consegue fazer consultas em bancos de dados relacionais.
 
 Para tal, é escolhido o SGBD [SQLite Online](sqliteonline.com), que tem a vantagem de não precisar de instalação, como a maioria dos SGBDs que exigem um trabalho para fazer instalação.
+
+<div align="center">
+
+  ![SQLite](https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E)
+
+</div>
 
 ## Referências Bibliográficas
 1. [Formação SQL](https://cursos.alura.com.br/formacao-conhecendo-sql)
